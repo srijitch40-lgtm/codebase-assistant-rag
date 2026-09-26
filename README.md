@@ -103,4 +103,4 @@ eval_results.md   # graded evaluation results
  
 ## Author
  
-Daniyal Ahmad — Computer Science, Toronto Metropolitan University
+Srijit Chakraborty — Computer Science, Sister Nivedita University
